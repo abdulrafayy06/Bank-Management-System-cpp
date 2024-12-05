@@ -65,27 +65,30 @@ To run this project, you’ll need:
 
 1. **Clone this repository**:  
    ```bash
-   git clone https://github.com/your-username/Bank-Management-System.git
+   git clone https://github.com/aabdulrafay/Bank-Management-System-cpp.git
    ```
 
 2. **Navigate to the project directory**:  
    ```bash
-   cd Bank-Management-System
+   cd Bank-Management-System-cpp
    ```
 
 3. **Compile the program**:  
    ```bash
-   g++ bank_management_system.cpp -o bank_management_system
+   g++ bank_management_system_cpp.cpp -o bank_management_system_cpp
    ```
 
 4. **Run the executable**:  
    ```bash
-   ./bank_management_system
+   ./bank_management_system_cpp
    ```
 
 ---
 
 ## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/cb178357-0612-4298-9ab9-abbb3222a06b)
+![image](https://github.com/user-attachments/assets/f3914fd2-2962-4a6b-8135-aa78e88a08bc)
+
 
 
 ---
@@ -93,7 +96,7 @@ To run this project, you’ll need:
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/aabdulrafay/Bank-Management-System/issues).
+Feel free to check out the [issues page](https://github.com/aabdulrafay/Bank-Management-System-cpp/issues).
 
 ---
 
@@ -101,7 +104,7 @@ Feel free to check out the [issues page](https://github.com/aabdulrafay/Bank-Man
 
 For any inquiries:  
 **[ABDUL RAFAY]**  
-[lifewithabdulrafay@gmail.com]  
+[Email](lifewithabdulrafay@gmail.com) 
 [LinkedIn Profile](https://www.linkedin.com/in/aabdulrafay/) 
 
 ---
