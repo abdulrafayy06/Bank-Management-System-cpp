@@ -65,7 +65,7 @@ To run this project, you’ll need:
 
 1. **Clone this repository**:  
    ```bash
-   git clone https://github.com/aabdulrafay/Bank-Management-System-cpp.git
+   git clone https://github.com/abdulrafayy06/Bank-Management-System-cpp.git
    ```
 
 2. **Navigate to the project directory**:  
@@ -86,29 +86,25 @@ To run this project, you’ll need:
 ---
 
 ## 📷 Screenshots
-![image](https://github.com/user-attachments/assets/cb178357-0612-4298-9ab9-abbb3222a06b)
-![image](https://github.com/user-attachments/assets/f3914fd2-2962-4a6b-8135-aa78e88a08bc)
 
+### **Main Menu**  
+![Main Menu](https://github.com/user-attachments/assets/cb178357-0612-4298-9ab9-abbb3222a06b)
 
+### **Account Management Options**  
+![Account Options](https://github.com/user-attachments/assets/f3914fd2-2962-4a6b-8135-aa78e88a08bc)
 
 ---
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/aabdulrafay/Bank-Management-System-cpp/issues).
+Feel free to check out the [issues page](https://github.com/abdulrafayy06/Bank-Management-System-cpp/issues).
 
 ---
 
 ## 📬 Contact
 
 For any inquiries:  
-**[ABDUL RAFAY]**  
-[Email](lifewithabdulrafay@gmail.com) 
-[LinkedIn Profile](https://www.linkedin.com/in/aabdulrafay/) 
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+**ABDUL RAFAY**  
+📧 [Email Me](mailto:lifewithabdulrafay@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/aabdulrafay/)
